@@ -1,0 +1,13 @@
+315deg, #ffffff 0%, #d7e1ec 74%
+Facebook #426782
+Twitter #1DA1F2
+Instagram #E1306C
+Youtube #ff0000
+
+
+#f0f0f0
+
+
+linear-gradient(90deg, #4e65ff, #92effd);
+
+#3586ff blue color
